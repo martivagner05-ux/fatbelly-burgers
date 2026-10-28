@@ -1,0 +1,5 @@
+.DS_Store
+.claude/
+# originals and client brief; the site uses the optimized copies in images/
+PHOTOS/
+info.pages
